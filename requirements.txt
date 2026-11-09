@@ -1,0 +1,5 @@
+# Runtime dependencies for buzz.py are from Python standard library.
+# Tkinter is bundled with most Python Windows installers.
+
+# Optional packaging tool
+pyinstaller>=6.0
